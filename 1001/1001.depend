@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717921406 source:/home/kali/Desktop/coding/problems/timus/1001/main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

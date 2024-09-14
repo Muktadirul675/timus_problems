@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717176881 source:/home/kali/Desktop/coding/problems/timus/1086/main.cpp
+	<iostream>
+	<math.h>
+
